@@ -1,1 +1,1 @@
-# javascript-amazon-project
+# This project is a JavaScript-based e-commerce platform resembling the functionalities of popular online marketplaces. It includes a diverse product catalog, a seamless shopping cart experience, and a simulated checkout process. The project demonstrates frontend development skills, database integration, and the implementation of key e-commerce features.
